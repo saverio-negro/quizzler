@@ -1,5 +1,7 @@
 # Quizzler
 
+<img src="./images/quizzler.gif" width="25%" height="25%"/>
+
 ### Are you ready for the next question? Well, then you're surely ready for "Quizzler", a straightforward, yet engaging app.
 
 ### Rise to a new challenge by performing the highest score at Quizzler!
