@@ -4,6 +4,8 @@
 
 #### Rise to a new challenge by performing the highest score at Quizzler!
 
-##### Note: All credits regarding the assets for the UI of the Quizzler app go to <a href="https://appbrewery.com/">The App Brewery</a>.
+<img src="./images/quizzler.gif" width="25%" height="25%"/>
+
+Note: All credits regarding the assets for the UI of the Quizzler app go to <a href="https://appbrewery.com/">The App Brewery</a>.
 
 
